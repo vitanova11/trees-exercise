@@ -61,6 +61,12 @@ Your return value should also be a BinaryTreeNode.
 
 You can assume that all the values in the tree are unique.
 
+### path sum
+https://leetcode.com/problems/path-sum/
+
+### path sum 2
+https://leetcode.com/problems/path-sum-ii/
+
 ### getElementById
 Implement your own getElementById function. Here are some hints:
 
